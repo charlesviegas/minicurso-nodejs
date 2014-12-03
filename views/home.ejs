@@ -1,0 +1,12 @@
+<% include ./header %>
+
+<div class="container">
+    <form action="/entrar" method="post" role="form" class="form-signin">
+        <h2>Lista de presentes</h2>
+        <input type="text" name="noivo" placeholder="Noivo" class="form-control" required="required" autofocus="autofocus"/>
+        <input type="text" name="noiva" placeholder="Noiva" class="form-control" required="required"/>
+        <button type="submit" class="btn btn-lg btn-primary btn-block">Ver lista</button>
+    </form>
+</div>
+
+<% include ./footer %>

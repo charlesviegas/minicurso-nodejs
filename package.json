@@ -1,0 +1,16 @@
+{
+  "name": "casalista",
+  "description": "App para lista de casamento em Node.js",
+  "author": "Charles Viegas <charles.viegas@codate.com.br>",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-load": "*",
+    "express-session": "*",
+    "method-override": "*"
+  }
+}
