@@ -1,7 +1,7 @@
 Minicurso: Criando Aplicacões Web com NodeJs
 =========
 
-Minicurso apresentado no evento Javaneiros 2014.
+Minicurso apresentado no evento <a href="http://www.javaneiros.com.br/">Javaneiros 2014</a>.
 
 Pré-requisitos:
 - Node.js
