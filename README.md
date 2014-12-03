@@ -11,4 +11,4 @@ Minicurso apresentado no evento <a href="http://www.javaneiros.com.br/">Javaneir
 $ node app.js
 ```
 
-- Abra o navegador na url: <a href="http://localhost:3000>http://localhost:3000</a>.
+- Abra o navegador na url: <a href="http://localhost:3000">http://localhost:3000</a>.
